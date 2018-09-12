@@ -7,4 +7,4 @@ def using_while
 	end
 end
 
-# remember to use counter operator += 1 
+# remember to use '+='
